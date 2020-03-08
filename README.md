@@ -9,12 +9,12 @@
 
 [npm-image]: https://img.shields.io/npm/v/egg-apollo-graphql.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/egg-apollo-graphql
-[travis-image]: https://img.shields.io/travis/eggjs/egg-apollo-graphql.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/egg-apollo-graphql
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-apollo-graphql.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-apollo-graphql?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-apollo-graphql.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-apollo-graphql
+[travis-image]: https://img.shields.io/travis/shadyzoz/egg-apollo-graphql.svg?style=flat-square
+[travis-url]: https://travis-ci.org/shadyzoz/egg-apollo-graphql
+[codecov-image]: https://img.shields.io/codecov/c/github/shadyzoz/egg-apollo-graphql.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/shadyzoz/egg-apollo-graphql?branch=master
+[david-image]: https://img.shields.io/david/shadyzoz/egg-apollo-graphql.svg?style=flat-square
+[david-url]: https://david-dm.org/shadyzoz/egg-apollo-graphql
 [snyk-image]: https://snyk.io/test/npm/egg-apollo-graphql/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/egg-apollo-graphql
 [download-image]: https://img.shields.io/npm/dm/egg-apollo-graphql.svg?style=flat-square
@@ -56,7 +56,7 @@ see [config/config.default.js](config/config.default.js) for more detail.
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/eggjs/egg/issues).
+Please open an issue [here](https://github.com/shadyzoz/egg/issues).
 
 ## License
 
